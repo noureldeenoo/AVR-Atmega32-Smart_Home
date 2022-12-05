@@ -19,8 +19,6 @@
 •  1- Leds ON
 •  2- Leds OFF
 user can choose to control leds using keypad.
-
-
 7. System should monitor the
 temperature Sensor at all times
 • if : temp <= 25 -> DC motor is off
