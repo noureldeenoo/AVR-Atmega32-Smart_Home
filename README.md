@@ -16,8 +16,8 @@
 4. If user Enters a wrong password , the system should display this message, “wrong password , please Try again”.
 5. The user has a maximum of 3 times to try to enter a correct password after that the system will lock for 2 minutes .
 6. After a successful login , the system display this message :
->>>1- Leds ON
->>>2- Leds OFF
+•  1- Leds ON
+•  2- Leds OFF
 user can choose to control leds using keypad.
 7. System should monitor the
 temperature Sensor at all times
